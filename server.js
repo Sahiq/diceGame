@@ -13,8 +13,8 @@ var playingPlayers = [];
 let current_turn = 0;
 let timeOut;
 let _turn = 0;
-const MAX_WAITING = 5000;
-const WIN_SCORE = 10;
+const MAX_WAITING = 30000;
+const WIN_SCORE = 61;
 var gameOver = 0;
 
 
